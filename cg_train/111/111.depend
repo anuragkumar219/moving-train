@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589211900 source:d:\cg project\cg_train\111\main.c
+	<windows.h>
+	<gl/gl.h>
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<stdlib.h>
+

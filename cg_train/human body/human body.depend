@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1589649998 source:d:\cg project\cg_train\human body\main.c
+	<windows.h>
+	<GL/glut.h>
+	"math.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
